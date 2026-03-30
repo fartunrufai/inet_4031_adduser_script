@@ -9,7 +9,7 @@ Dry run mode prints the commands thta *would* be executed, but does Not create u
 
 
 ./create-users.py < create-users.input
-## How to run (real Run)
+## How to run (Real Run)
 
 Real run mode actully creates the users, sets passwords , and assigns groups. Requires sudo.
 
