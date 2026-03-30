@@ -3,7 +3,7 @@
 
 This project contains a python script that automates the creation of linux useraccounts using an input file. the script reads each line,skips comments, and creates users with their full names, password, and group assignmnet
 
-## how to run (Dry Run)
+## How to run (Dry Run)
 
 Dry run mode prints the commands thta *would* be executed, but does Not create users.
 
